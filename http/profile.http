@@ -1,0 +1,8 @@
+#Post
+POST http://localhost:8080/api/v1/profile/create/
+Content-Type: application/json
+
+{
+  "age": 18,
+  "name": "alberto"
+}
